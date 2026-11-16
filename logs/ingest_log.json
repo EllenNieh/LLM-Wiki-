@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-16T08:31:24.303295+00:00",
+  "successful_sources": 7,
+  "total_sources": 7,
+  "results": [
+    {
+      "id": "S01",
+      "url": "https://ethereum.org/en/developers/docs/intro-to-ethereum/",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 9378,
+      "chunk_count": 8,
+      "sha256": "3daf9b665e0367fce0545dc51b8e260289a76e33f914e8b245b9f82642c2723c"
+    },
+    {
+      "id": "S02",
+      "url": "https://ethereum.org/en/developers/docs/smart-contracts/",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 6023,
+      "chunk_count": 5,
+      "sha256": "b435d7056dda8d794853b50b92676518f33009dc38501522e16e4504a60d8cdb"
+    },
+    {
+      "id": "S03",
+      "url": "https://ethereum.org/en/developers/docs/evm/",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 7052,
+      "chunk_count": 6,
+      "sha256": "de38272add0fa6fbf619921368467b699789a68f8d5466661c587d093127e83a"
+    },
+    {
+      "id": "S04",
+      "url": "https://ethereum.org/en/developers/docs/gas/",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 11302,
+      "chunk_count": 10,
+      "sha256": "32bc641ff506c94b2887274943748bf47220c84dadcfc41227f5bd20774057ef"
+    },
+    {
+      "id": "S05",
+      "url": "https://scs.owasp.org/sctop10/",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 5348,
+      "chunk_count": 5,
+      "sha256": "199660cb0dc5b5401735aebc61779d4fe42e7f593c3fdd8206114baa530e675c"
+    },
+    {
+      "id": "S06",
+      "url": "https://docs.soliditylang.org/en/latest/security-considerations.html",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 18546,
+      "chunk_count": 15,
+      "sha256": "6bca6e9ad977c324fc40580b6a20734c95472ff60828d5736b196a51b5f91b93"
+    },
+    {
+      "id": "S07",
+      "url": "https://docs.openzeppelin.com/contracts/5.x/",
+      "status": "success",
+      "attempts": 1,
+      "char_count": 4173,
+      "chunk_count": 4,
+      "sha256": "888b3ac9cc2687e5ea17ca38d23dfeba334511bec8a90fcca77c2301b2025cb9"
+    }
+  ]
+}

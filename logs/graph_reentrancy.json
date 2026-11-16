@@ -1,0 +1,41 @@
+{
+  "started_at": "2026-11-16T10:32:35.888099+00:00",
+  "topic": "reentrancy",
+  "model": "gemini-3.5-flash-lite",
+  "events": [
+    {
+      "step": "retrieve_check",
+      "attempt": 1,
+      "queries": [
+        "reentrancy"
+      ],
+      "chunks": [
+        "S06-004",
+        "S05-002",
+        "S06-003",
+        "S06-015"
+      ],
+      "passed": true,
+      "reason": "matching_chunks=4/4"
+    },
+    {
+      "step": "structural_check",
+      "attempt": 1,
+      "passed": true,
+      "reason": "citations_and_schema_valid"
+    },
+    {
+      "step": "fact_check",
+      "attempt": 1,
+      "passed": true,
+      "issues": []
+    }
+  ],
+  "status": "approved",
+  "approved_chunk_ids": [
+    "S05-002",
+    "S06-003",
+    "S06-004"
+  ],
+  "finished_at": "2026-11-16T10:32:38.347780+00:00"
+}

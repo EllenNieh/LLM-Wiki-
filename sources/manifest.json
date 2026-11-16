@@ -1,0 +1,9 @@
+[
+ {"id":"S01","title":"Ethereum introduction","url":"https://ethereum.org/en/developers/docs/intro-to-ethereum/","topic":"blockchain"},
+ {"id":"S02","title":"Smart contracts","url":"https://ethereum.org/en/developers/docs/smart-contracts/","topic":"smart-contracts"},
+ {"id":"S03","title":"EVM","url":"https://ethereum.org/en/developers/docs/evm/","topic":"evm"},
+ {"id":"S04","title":"Gas","url":"https://ethereum.org/en/developers/docs/gas/","topic":"gas"},
+ {"id":"S05","title":"OWASP Smart Contract Top 10","url":"https://scs.owasp.org/sctop10/","topic":"vulnerabilities"},
+ {"id":"S06","title":"Solidity security considerations","url":"https://docs.soliditylang.org/en/latest/security-considerations.html","topic":"defenses"},
+ {"id":"S07","title":"OpenZeppelin Contracts","url":"https://docs.openzeppelin.com/contracts/5.x/","topic":"defenses"}
+]
